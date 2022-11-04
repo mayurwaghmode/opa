@@ -2,8 +2,6 @@ name: Post Tag
 
 on:
   push:
-    tags:
-      - '*'
 
 jobs:
   generate:
